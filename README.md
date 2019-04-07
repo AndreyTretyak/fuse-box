@@ -5,7 +5,7 @@
     src="https://raw.githubusercontent.com/fuse-box/fuse-box/master/logo.png">
 </p>
 
-<h2 align="center">A bundler that does it right</h2>
+<h2 align="center"> (Customly published version to update ws, should be replaced with real 4.0.0 after release). A bundler that does it right</h2>
 
 <p align="center">
   <a href="https://travis-ci.org/fuse-box/fuse-box">
