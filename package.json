@@ -62,7 +62,7 @@
     "watch": "^1.0.1",
     "ws": "^3.3.1"
   },
-  "description": "Fuse-Box a bundler that does it right",
+  "description": "(Customly published version to update ws) Fuse-Box a bundler that does it right",
   "devDependencies": {
     "@babel/core": "^7.2.2",
     "@babel/preset-env": "^7.2.3",
